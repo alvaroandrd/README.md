@@ -25,6 +25,3 @@ I'm currently studying Systems Analysis and Development at college and looking f
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alvaroandrd&layout=compact&bg_color=f7f7ff&border_color=30A3DC&title_color=30A3DC&text_color=000)
 
 </div>
-
-## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=SEUREPOSITORIO&bg_color=f7f7ff&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=000)](https://github.com/alvaroandrd/dio-lab-open-source)
